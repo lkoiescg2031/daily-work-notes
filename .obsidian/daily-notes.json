@@ -1,6 +1,6 @@
 {
-  "format": "YYYY-MM-DD",
-  "folder": "DailyNotes",
+  "format": "YYYY년/MM월/YYYY-MM-DD",
+  "folder": "Daily Reports",
   "autorun": true,
   "template": "Templates/Daily template"
 }

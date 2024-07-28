@@ -1,4 +1,5 @@
 
-# daily-notes
+# daily-work-notes
 
-Obsidian 을 이용해 개인 메모 기록 용으로 사용하는 노트입니다.
+Obsidian 을 이용해 업무 기록 용으로 사용하는 노트 탬플릿 입니다.
+

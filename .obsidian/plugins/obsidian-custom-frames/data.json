@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://github.com",
+      "displayName": "Github",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": "width: 100vw",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

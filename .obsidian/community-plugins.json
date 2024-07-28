@@ -11,5 +11,11 @@
   "execute-code",
   "emoji-shortcodes",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-custom-frames",
+  "templater-obsidian",
+  "obsidian-meta-bind-plugin",
+  "obsidian-note-autocreator",
+  "tabs",
+  "markdown-tree"
 ]

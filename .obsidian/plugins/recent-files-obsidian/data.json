@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily template",
-      "path": "Templates/Daily template.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Task template",
+      "path": "Templates/Task template.md"
+    },
+    {
+      "basename": "Daily template",
+      "path": "Templates/Daily template.md"
     }
   ],
   "omittedPaths": []

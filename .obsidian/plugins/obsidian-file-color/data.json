@@ -1,6 +1,22 @@
 {
-  "cascadeColors": false,
-  "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "PW5csZfYHJo6csk73n9PU",
+      "name": "DailyNotes",
+      "value": "#61a8ea"
+    },
+    {
+      "id": "7S3Rw5UtaQrXB-9dl_1Rv",
+      "name": "Tasks",
+      "value": "#e59c1f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Tasks",
+      "color": "7S3Rw5UtaQrXB-9dl_1Rv"
+    }
+  ]
 }
