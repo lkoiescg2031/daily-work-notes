@@ -1,0 +1,5 @@
+{
+  "format": "YYYY-MM-DD HH:mm:ss",
+  "folder": "daily-notes",
+  "autorun": true
+}
