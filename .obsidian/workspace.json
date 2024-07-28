@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
             }
           }
@@ -154,8 +156,8 @@
   },
   "active": "5cf11a25ec0eaee9",
   "lastOpenFiles": [
-    "README.md",
     "conflict-files-obsidian-git.md",
+    "README.md",
     "Untitled.canvas",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
